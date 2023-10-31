@@ -22,7 +22,7 @@ The following **additional** features are implemented:
 - [x] Dark/Light mode
 
 ## Video Walkthrough
-    <div>
+<div>
     <a href="https://www.loom.com/share/03efe7e6a04345268c96d33637b26388">
       <p>Loom Control Menu - 30 October 2023 - Watch Video</p>
     </a>
