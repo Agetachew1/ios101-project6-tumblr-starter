@@ -22,8 +22,7 @@ The following **additional** features are implemented:
 - [ ] Dark/Light mode
 
 ## Video Walkthrough
-
-<div style="position: relative; padding-bottom: 206.89655172413794%; height: 0;"><iframe src="https://www.loom.com/embed/03efe7e6a04345268c96d33637b26388?sid=741a939c-5d52-4303-995d-2edda3964387" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+src="https://www.loom.com/embed/03efe7e6a04345268c96d33637b26388?sid=741a939c-5d52-4303-995d-2edda3964387" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
 
 ## Notes
 
