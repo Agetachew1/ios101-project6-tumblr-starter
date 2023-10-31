@@ -22,8 +22,12 @@ The following **additional** features are implemented:
 - [x] Dark/Light mode
 
 ## Video Walkthrough
-[src="https://www.loom.com/embed/03efe7e6a04345268c96d33637b26388?sid=741a939c-5d52-4303-995d-2edda3964387" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-](https://www.loom.com/share/03efe7e6a04345268c96d33637b26388?sid=9daa9f03-ece6-4d1b-a04e-06184fc6feb8)
+    <a href="https://www.loom.com/share/03efe7e6a04345268c96d33637b26388">
+      <p>Loom Control Menu - 30 October 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/03efe7e6a04345268c96d33637b26388">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/03efe7e6a04345268c96d33637b26388-with-play.gif">
+    </a>
 ## Notes
 
 Describe any challenges encountered while building the app.
