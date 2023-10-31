@@ -19,11 +19,11 @@ The following **required** functionality is completed:
 The following **additional** features are implemented:
 
 - [x] List anything else that you can get done to improve the app functionality!
-- [ ] Dark/Light mode
+- [x] Dark/Light mode
 
 ## Video Walkthrough
-src="https://www.loom.com/embed/03efe7e6a04345268c96d33637b26388?sid=741a939c-5d52-4303-995d-2edda3964387" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-
+[src="https://www.loom.com/embed/03efe7e6a04345268c96d33637b26388?sid=741a939c-5d52-4303-995d-2edda3964387" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+](https://www.loom.com/share/03efe7e6a04345268c96d33637b26388?sid=9daa9f03-ece6-4d1b-a04e-06184fc6feb8)
 ## Notes
 
 Describe any challenges encountered while building the app.
